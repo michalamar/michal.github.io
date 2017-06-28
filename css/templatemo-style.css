@@ -8,7 +8,10 @@ http://www.templatemo.com/tm-488-classic
 
 body {
 	color: #8c8c8c;
-	font-family: 'Times New Roman', Helvetica, Arial, sans-serif;
+	/*font-family: 'Times New Roman', Helvetica, Arial, sans-serif;*/
+	font-family: 'Merriweather', serif;
+	font-family: 'Crimson Text', serif;
+	font-family: 'Abel', sans-serif;
 	font-size: 18px;
 	font-weight: 300;
 	overflow-x: hidden;
